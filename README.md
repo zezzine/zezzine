@@ -1,5 +1,5 @@
 
-[![42 Profile Card](https://1337-readme.vercel.app/api/profile?cursus=42cursus&dark=true&login=zezzine)](https://github.com/zezzine/1337-readme)
+<a href="https://github.com/oakoudad/badge42"><img src="https://badge.mediaplus.ma/kettlebells/zezzine?1337Badge=off&42Network=off" alt="zezzine's 42 stats" /></a>
 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=zezzine&show_icons=true) 
