@@ -1,1 +1,1 @@
-![Codeforces Stats](https://codeforces-readme-stats.vercel.app/api/card?zack12=redheadphone)
+![Codeforces Stats](https://codeforces-readme-stats.vercel.app/api/card?username=zack12)
